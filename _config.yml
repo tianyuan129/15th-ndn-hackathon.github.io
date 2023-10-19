@@ -1,0 +1,94 @@
+safe: false
+source: .
+destination: ./_site
+plugins_dir: ./_plugins
+highlighter: rouge
+markdown: kramdown
+exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md', 'vendor']
+include: ['CNAME', '.nojekyll']
+
+url: https://14th-ndn-hackathon.named-data.net
+baseurl:
+
+plugins:
+  - jekyll-assets
+
+deadlines:
+  - name: Registration deadline
+    date: February 20, 2023
+  - name: Project Submission deadline
+    date: March 2, 2023
+  - name: Acceptance notification
+    date: March 3, 2023
+
+# Configuration for permalink
+permalink: /:page.html
+
+# Configuration for site
+title: 14th Named Data Networking (NDN) Hackathon
+short_title: 14th NDN Hackathon
+description: March 4-5, 2023, National Institute of Standards and Technology (NIST), 100 Bureau Drive (Building 101, lecture room- D), Gaithersburg, Maryland
+author: 14th NDN Hackathon Organizing Committee
+#email: 13th-ndn-hackathon@named-data.net
+
+# Configuration for blog
+lang: en
+columns: 3
+date_format: "%B %d, %Y"
+truncate_len: 200
+
+# Configuration for navbar.html
+navbar_list:
+  - name: Home
+    link: /
+  - name: Committees
+    link: /committees.html
+  - name: Call for Hacks
+    link: /cfh.html
+  - name: HACKS
+    link: /hacks.html
+  - name: Program
+    link: /program.html
+  - name: Judging
+    link: /judging.html
+  - name: Code of Conduct
+    link: /conduct.html
+  - name: ">> REGISTER <<"
+    link: https://www.eventbrite.com/e/14th-ndn-hackathon-registration-507800975387
+
+asides:
+    github: true
+    tweets: false
+    archive_tabs: false
+
+google_plus_one:
+    size: medium
+
+twitter:
+    username: NamedData
+    count: 5
+    exclude_replies: true
+    show_screen_name: true
+    show_follower_count: false
+    widget_id: 698294519054278656
+
+github:
+   username: 14th-ndn-hackathon
+   count: 10000
+
+assets:
+  cache: .sass-cache
+  features:
+    automatic_img_size: false
+
+  sources:
+    - _assets/css
+    - _assets/images
+    - _assets/fonts
+    - _assets/js
+    - _assets/bower
+    - _assets/files
+
+  autoprefixer:
+    browsers:
+      - defaults

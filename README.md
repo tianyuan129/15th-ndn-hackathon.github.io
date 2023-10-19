@@ -1,1 +1,1 @@
-# 15th-ndn-hackathon.github.io
+# 15th NDN Hackathon
