@@ -18,8 +18,8 @@ participants who wish to work on them!
 We particularly encourage projects that:
 
 - Directly address NDN research needs ,
-- Create new NDN tools or modify existing tools,
-- Create or improve documentation and how-to guides.
+- Create new NDN tools or modify existing tools ,
+- Create or improve documentation and how-to guides .
 
 ## News
 
