@@ -12,7 +12,7 @@ baseurl:
 
 plugins:
   - jekyll-assets
-   - jekyll-paginate
+  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
