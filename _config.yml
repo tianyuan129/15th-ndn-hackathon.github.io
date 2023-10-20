@@ -12,6 +12,12 @@ baseurl:
 
 plugins:
   - jekyll-assets
+   - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
 
 deadlines:
   - name: Registration deadline
