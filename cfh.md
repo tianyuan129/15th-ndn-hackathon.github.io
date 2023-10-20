@@ -26,8 +26,8 @@ We will also create a Slack channel for communication during the hackathon.
 
 ## Submission instructions
 
-Proposals should be submitted via the [web form](https://forms.gle/zsXN93ziGBq8g2yF9).
-You also need to register for the hackathon [here](https://www.eventbrite.com/e/14th-ndn-hackathon-registration-507800975387).
+Proposals should be submitted via the [web form](https://forms.gle/Eh6gw8fPaiV8ACXT8).
+You also need to register for the hackathon [here](https://www.eventbrite.com/e/736029894227?aff=oddtdtcreator).
 
 Submissions should include:
 

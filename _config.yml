@@ -7,7 +7,7 @@ markdown: kramdown
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md', 'vendor']
 include: ['CNAME', '.nojekyll']
 
-url: https://14th-ndn-hackathon.named-data.net
+url: https://15th-ndn-hackathon.named-data.net
 baseurl:
 
 plugins:
@@ -25,10 +25,10 @@ deadlines:
 permalink: /:page.html
 
 # Configuration for site
-title: 14th Named Data Networking (NDN) Hackathon
-short_title: 14th NDN Hackathon
-description: March 4-5, 2023, National Institute of Standards and Technology (NIST), 100 Bureau Drive (Building 101, lecture room- D), Gaithersburg, Maryland
-author: 14th NDN Hackathon Organizing Committee
+title: 15th Named Data Networking (NDN) Hackathon
+short_title: 15th NDN Hackathon
+description: November 18-19, 2023, UCLA, CS building- UCLA Engineering VI, 3rd floor , LA, California
+author: 15th NDN Hackathon Organizing Committee
 #email: 13th-ndn-hackathon@named-data.net
 
 # Configuration for blog
@@ -54,7 +54,7 @@ navbar_list:
   - name: Code of Conduct
     link: /conduct.html
   - name: ">> REGISTER <<"
-    link: https://www.eventbrite.com/e/14th-ndn-hackathon-registration-507800975387
+    link: https://www.eventbrite.com/e/736029894227?aff=oddtdtcreator
 
 asides:
     github: true
