@@ -21,11 +21,11 @@ plugins:
 
 deadlines:
   - name: Registration deadline
-    date: February 20, 2023
+    date: November 16, 2023
   - name: Project Submission deadline
-    date: March 2, 2023
+    date: November 16, 2023
   - name: Acceptance notification
-    date: March 3, 2023
+    date: November 16, 2023
 
 # Configuration for permalink
 permalink: /:page.html
