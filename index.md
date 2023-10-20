@@ -17,16 +17,16 @@ participants who wish to work on them!
 
 We particularly encourage projects that:
 
-- Directly address NDN research needs ,
-- Create new NDN tools or modify existing tools ,
-- Create or improve documentation and how-to guides .
+- Directly address NDN research needs,
+- Create new NDN tools or modify existing tools,
+- Create or improve documentation and how-to guides.
 
 ## News
 
-- Oct 18, 2023: The hackathon [program](https://15th-ndn-hackathon.named-data.net/program.html) is online.
-- Oct 18, 2023: [Project proposal form](https://forms.gle/Eh6gw8fPaiV8ACXT8) is published.
-- Oct 18, 2023: [Registration](https://www.eventbrite.com/e/736029894227?aff=oddtdtcreator) is open.
-- Oct 18, 2023: The website is up!
+- Oct 20, 2023: The hackathon [program](https://15th-ndn-hackathon.named-data.net/program.html) is online.
+- Oct 20, 2023: [Project proposal form](https://forms.gle/Eh6gw8fPaiV8ACXT8) is published.
+- Oct 20, 2023: [Registration](https://www.eventbrite.com/e/736029894227?aff=oddtdtcreator) is open.
+- Oct 20, 2023: The website is up!
 
 ## Sponsors
 
