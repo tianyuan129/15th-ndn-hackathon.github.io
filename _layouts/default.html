@@ -16,14 +16,14 @@ layout: nil
     <meta name="author" content="{{ site.author }}">
     <link rel="canonical" href="{{ site.url }}{{ page.url }}">
 
-    {% asset site.css %}
+    {% assets site.css %}
 
     <!-- Le fav and touch icons -->
-    <link rel="shortcut icon" href="{% asset ico/favicon.ico @path %}">
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{% asset ico/apple-touch-icon-144-precomposed.png @path %}">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="{% asset ico/apple-touch-icon-114-precomposed.png @path %}">
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="{% asset ico/apple-touch-icon-72-precomposed.png @path %}">
-    <link rel="apple-touch-icon-precomposed" href="{% asset ico/apple-touch-icon-57-precomposed.png @path %}">
+    <link rel="shortcut icon" href="{% assets ico/favicon.ico @path %}">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{% assets ico/apple-touch-icon-144-precomposed.png @path %}">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="{% assets ico/apple-touch-icon-114-precomposed.png @path %}">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="{% assets ico/apple-touch-icon-72-precomposed.png @path %}">
+    <link rel="apple-touch-icon-precomposed" href="{% assets ico/apple-touch-icon-57-precomposed.png @path %}">
 
     {% if site.asides.themes %}{% include script.html %}{% endif %}
   </head>
@@ -60,6 +60,6 @@ layout: nil
       {% include footer.html %}
     </footer>
 
-    {% asset site.js %}
+    {% assets site.js %}
   </body>
 </html>
