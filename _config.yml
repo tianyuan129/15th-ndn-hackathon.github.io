@@ -86,10 +86,6 @@ assets:
   cache: .sass-cache
   features:
     automatic_img_size: false
-  sources:
-    - assets/css
-    - assets/images
-    - assets/js
 
   sources:
     - _assets/css
