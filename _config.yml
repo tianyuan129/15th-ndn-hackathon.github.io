@@ -1,7 +1,7 @@
 safe: false
 source: .
 destination: ./_site
-plugins_dir: ./_plugins
+plugins: ./_plugins
 highlighter: rouge
 markdown: kramdown
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md', 'vendor']
