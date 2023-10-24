@@ -9,7 +9,7 @@ gem "kramdown-parser-gfm", "= 1.1.0"
 gem 'github-pages', '~> 228', group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem 'jekyll-assets', :git => 'https://github.com/envygeeks/jekyll-assets', :ref => '056d2c8'
+  # gem 'jekyll-assets', :git => 'https://github.com/envygeeks/jekyll-assets', :ref => '056d2c8'
   gem 'autoprefixer-rails', '~> 9.8'
   gem 'execjs', '~> 2.7.0'
   gem 'mini_magick', '~> 4.9', '>= 4.9.2'
